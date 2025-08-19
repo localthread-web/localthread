@@ -1,0 +1,69 @@
+# Page snapshot
+
+```yaml
+- banner:
+  - link "LocalThread Logo":
+    - /url: /
+    - img "LocalThread Logo"
+  - navigation:
+    - link "Home":
+      - /url: /
+    - link "Products":
+      - /url: /products
+    - link "About":
+      - /url: /about
+    - link "Contact":
+      - /url: /contact
+  - button:
+    - img
+  - link:
+    - /url: /wishlist
+    - button:
+      - img
+  - link:
+    - /url: /cart
+    - button:
+      - img
+  - button "Login":
+    - img
+    - text: Login
+- main
+- contentinfo:
+  - heading "Stay in Style" [level=3]
+  - paragraph: Subscribe to our newsletter and be the first to know about new collections and exclusive offers.
+  - textbox "Enter your email"
+  - button "Subscribe"
+  - img "LocalThread Logo"
+  - paragraph: Sustainable fashion for the modern world. Quality clothing that makes you look good and feel good.
+  - button:
+    - img
+  - button:
+    - img
+  - button:
+    - img
+  - button:
+    - img
+  - heading "Shop" [level=4]
+  - button "New Arrivals"
+  - button "Women"
+  - button "Men"
+  - button "Accessories"
+  - button "Sale"
+  - heading "Customer Service" [level=4]
+  - button "Contact Us"
+  - button "Size Guide"
+  - button "Shipping Info"
+  - button "Returns"
+  - button "FAQ"
+  - heading "Company" [level=4]
+  - button "About Us"
+  - button "Careers"
+  - button "Sustainability"
+  - button "Press"
+  - button "Privacy Policy"
+  - text: © 2025 LocalThread. All rights reserved.
+  - button "Terms"
+  - button "Privacy"
+  - button "Cookies"
+- region "Notifications alt+T"
+```

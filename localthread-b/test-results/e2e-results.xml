@@ -1,0 +1,1372 @@
+<testsuites id="" name="" tests="320" failures="0" skipped="320" errors="0" time="0.574193">
+<testsuite name="auth.spec.js" timestamp="2025-08-17T15:38:44.446Z" hostname="chromium" tests="9" failures="0" skipped="9" time="0" errors="0">
+<testcase name="Authentication E2E Tests › should register a new customer successfully" classname="auth.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Authentication E2E Tests › should register a new vendor successfully" classname="auth.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Authentication E2E Tests › should login customer successfully" classname="auth.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Authentication E2E Tests › should login vendor successfully" classname="auth.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Authentication E2E Tests › should reject login with invalid credentials" classname="auth.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Authentication E2E Tests › should logout successfully" classname="auth.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Authentication E2E Tests › should handle forgot password flow" classname="auth.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Authentication E2E Tests › should validate registration form fields" classname="auth.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Authentication E2E Tests › should validate password strength" classname="auth.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+<testsuite name="basic-navigation.spec.js" timestamp="2025-08-17T15:38:44.446Z" hostname="chromium" tests="5" failures="0" skipped="5" time="0" errors="0">
+<testcase name="Basic Navigation E2E Tests › should load the home page" classname="basic-navigation.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Basic Navigation E2E Tests › should load the auth page" classname="basic-navigation.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Basic Navigation E2E Tests › should navigate between customer and vendor tabs" classname="basic-navigation.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Basic Navigation E2E Tests › should switch between login and register modes" classname="basic-navigation.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Basic Navigation E2E Tests › should display registration form fields" classname="basic-navigation.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+<testsuite name="debug-form.spec.js" timestamp="2025-08-17T15:38:44.446Z" hostname="chromium" tests="1" failures="0" skipped="1" time="0" errors="0">
+<testcase name="Debug Form Submission › should debug form submission process" classname="debug-form.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+<testsuite name="shopping-workflow.spec.js" timestamp="2025-08-17T15:38:44.446Z" hostname="chromium" tests="7" failures="0" skipped="7" time="0" errors="0">
+<testcase name="Shopping Workflow E2E Tests › complete shopping journey - browse, add to cart, checkout" classname="shopping-workflow.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Workflow E2E Tests › should handle cart operations - add, update, remove items" classname="shopping-workflow.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Workflow E2E Tests › should handle shop browsing and filtering" classname="shopping-workflow.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Workflow E2E Tests › should handle product browsing and search" classname="shopping-workflow.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Workflow E2E Tests › should handle product details and reviews" classname="shopping-workflow.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Workflow E2E Tests › should handle shop following and notifications" classname="shopping-workflow.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Workflow E2E Tests › should handle order tracking and history" classname="shopping-workflow.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+<testsuite name="shopping.spec.js" timestamp="2025-08-17T15:38:44.446Z" hostname="chromium" tests="11" failures="0" skipped="11" time="0" errors="0">
+<testcase name="Shopping Experience E2E Tests › should browse shops and view products" classname="shopping.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Experience E2E Tests › should search and filter products" classname="shopping.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Experience E2E Tests › should add products to cart" classname="shopping.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Experience E2E Tests › should manage shopping cart" classname="shopping.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Experience E2E Tests › should apply and remove coupons" classname="shopping.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Experience E2E Tests › should complete checkout process" classname="shopping.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Experience E2E Tests › should view order history" classname="shopping.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Experience E2E Tests › should track order status" classname="shopping.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Experience E2E Tests › should add products to wishlist" classname="shopping.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Experience E2E Tests › should filter shops by location" classname="shopping.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Experience E2E Tests › should view shop reviews and ratings" classname="shopping.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+<testsuite name="user-journey.spec.js" timestamp="2025-08-17T15:38:44.446Z" hostname="chromium" tests="6" failures="0" skipped="6" time="0" errors="0">
+<testcase name="Complete User Journey E2E Tests › Complete customer journey: registration to order completion" classname="user-journey.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Complete User Journey E2E Tests › Complete vendor journey: registration to order fulfillment" classname="user-journey.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Complete User Journey E2E Tests › Complete shopping experience with search and filters" classname="user-journey.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Complete User Journey E2E Tests › Complete shop discovery and following experience" classname="user-journey.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Complete User Journey E2E Tests › Complete order tracking and review experience" classname="user-journey.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Complete User Journey E2E Tests › Complete vendor analytics and reporting experience" classname="user-journey.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+<testsuite name="user-registration.spec.js" timestamp="2025-08-17T15:38:44.446Z" hostname="chromium" tests="8" failures="0" skipped="8" time="0" errors="0">
+<testcase name="User Registration E2E Tests › should register a new customer successfully" classname="user-registration.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="User Registration E2E Tests › should register a new vendor successfully" classname="user-registration.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="User Registration E2E Tests › should show validation errors for invalid data" classname="user-registration.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="User Registration E2E Tests › should show error for existing email" classname="user-registration.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="User Registration E2E Tests › should show error for password mismatch" classname="user-registration.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="User Registration E2E Tests › should show error for weak password" classname="user-registration.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="User Registration E2E Tests › should navigate to login page from registration" classname="user-registration.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="User Registration E2E Tests › should handle form reset" classname="user-registration.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+<testsuite name="vendor-workflow.spec.js" timestamp="2025-08-17T15:38:44.446Z" hostname="chromium" tests="6" failures="0" skipped="6" time="0" errors="0">
+<testcase name="Vendor Workflow E2E Tests › complete vendor onboarding - register, create shop, add products" classname="vendor-workflow.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Workflow E2E Tests › should manage product inventory" classname="vendor-workflow.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Workflow E2E Tests › should handle order management" classname="vendor-workflow.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Workflow E2E Tests › should manage shop profile and settings" classname="vendor-workflow.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Workflow E2E Tests › should handle analytics and reporting" classname="vendor-workflow.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Workflow E2E Tests › should handle customer interactions and reviews" classname="vendor-workflow.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+<testsuite name="vendor.spec.js" timestamp="2025-08-17T15:38:44.446Z" hostname="chromium" tests="11" failures="0" skipped="11" time="0" errors="0">
+<testcase name="Vendor Management E2E Tests › should register as vendor and create shop" classname="vendor.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Management E2E Tests › should add products to shop" classname="vendor.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Management E2E Tests › should edit product details" classname="vendor.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Management E2E Tests › should manage product inventory" classname="vendor.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Management E2E Tests › should view and manage orders" classname="vendor.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Management E2E Tests › should process order fulfillment" classname="vendor.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Management E2E Tests › should view shop analytics" classname="vendor.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Management E2E Tests › should manage shop settings" classname="vendor.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Management E2E Tests › should handle customer reviews" classname="vendor.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Management E2E Tests › should manage shop operating hours" classname="vendor.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Management E2E Tests › should manage product categories and variants" classname="vendor.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+<testsuite name="auth.spec.js" timestamp="2025-08-17T15:38:44.446Z" hostname="firefox" tests="9" failures="0" skipped="9" time="0" errors="0">
+<testcase name="Authentication E2E Tests › should register a new customer successfully" classname="auth.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Authentication E2E Tests › should register a new vendor successfully" classname="auth.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Authentication E2E Tests › should login customer successfully" classname="auth.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Authentication E2E Tests › should login vendor successfully" classname="auth.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Authentication E2E Tests › should reject login with invalid credentials" classname="auth.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Authentication E2E Tests › should logout successfully" classname="auth.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Authentication E2E Tests › should handle forgot password flow" classname="auth.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Authentication E2E Tests › should validate registration form fields" classname="auth.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Authentication E2E Tests › should validate password strength" classname="auth.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+<testsuite name="basic-navigation.spec.js" timestamp="2025-08-17T15:38:44.446Z" hostname="firefox" tests="5" failures="0" skipped="5" time="0" errors="0">
+<testcase name="Basic Navigation E2E Tests › should load the home page" classname="basic-navigation.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Basic Navigation E2E Tests › should load the auth page" classname="basic-navigation.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Basic Navigation E2E Tests › should navigate between customer and vendor tabs" classname="basic-navigation.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Basic Navigation E2E Tests › should switch between login and register modes" classname="basic-navigation.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Basic Navigation E2E Tests › should display registration form fields" classname="basic-navigation.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+<testsuite name="debug-form.spec.js" timestamp="2025-08-17T15:38:44.446Z" hostname="firefox" tests="1" failures="0" skipped="1" time="0" errors="0">
+<testcase name="Debug Form Submission › should debug form submission process" classname="debug-form.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+<testsuite name="shopping-workflow.spec.js" timestamp="2025-08-17T15:38:44.446Z" hostname="firefox" tests="7" failures="0" skipped="7" time="0" errors="0">
+<testcase name="Shopping Workflow E2E Tests › complete shopping journey - browse, add to cart, checkout" classname="shopping-workflow.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Workflow E2E Tests › should handle cart operations - add, update, remove items" classname="shopping-workflow.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Workflow E2E Tests › should handle shop browsing and filtering" classname="shopping-workflow.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Workflow E2E Tests › should handle product browsing and search" classname="shopping-workflow.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Workflow E2E Tests › should handle product details and reviews" classname="shopping-workflow.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Workflow E2E Tests › should handle shop following and notifications" classname="shopping-workflow.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Workflow E2E Tests › should handle order tracking and history" classname="shopping-workflow.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+<testsuite name="shopping.spec.js" timestamp="2025-08-17T15:38:44.446Z" hostname="firefox" tests="11" failures="0" skipped="11" time="0" errors="0">
+<testcase name="Shopping Experience E2E Tests › should browse shops and view products" classname="shopping.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Experience E2E Tests › should search and filter products" classname="shopping.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Experience E2E Tests › should add products to cart" classname="shopping.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Experience E2E Tests › should manage shopping cart" classname="shopping.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Experience E2E Tests › should apply and remove coupons" classname="shopping.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Experience E2E Tests › should complete checkout process" classname="shopping.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Experience E2E Tests › should view order history" classname="shopping.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Experience E2E Tests › should track order status" classname="shopping.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Experience E2E Tests › should add products to wishlist" classname="shopping.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Experience E2E Tests › should filter shops by location" classname="shopping.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Experience E2E Tests › should view shop reviews and ratings" classname="shopping.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+<testsuite name="user-journey.spec.js" timestamp="2025-08-17T15:38:44.446Z" hostname="firefox" tests="6" failures="0" skipped="6" time="0" errors="0">
+<testcase name="Complete User Journey E2E Tests › Complete customer journey: registration to order completion" classname="user-journey.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Complete User Journey E2E Tests › Complete vendor journey: registration to order fulfillment" classname="user-journey.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Complete User Journey E2E Tests › Complete shopping experience with search and filters" classname="user-journey.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Complete User Journey E2E Tests › Complete shop discovery and following experience" classname="user-journey.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Complete User Journey E2E Tests › Complete order tracking and review experience" classname="user-journey.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Complete User Journey E2E Tests › Complete vendor analytics and reporting experience" classname="user-journey.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+<testsuite name="user-registration.spec.js" timestamp="2025-08-17T15:38:44.446Z" hostname="firefox" tests="8" failures="0" skipped="8" time="0" errors="0">
+<testcase name="User Registration E2E Tests › should register a new customer successfully" classname="user-registration.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="User Registration E2E Tests › should register a new vendor successfully" classname="user-registration.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="User Registration E2E Tests › should show validation errors for invalid data" classname="user-registration.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="User Registration E2E Tests › should show error for existing email" classname="user-registration.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="User Registration E2E Tests › should show error for password mismatch" classname="user-registration.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="User Registration E2E Tests › should show error for weak password" classname="user-registration.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="User Registration E2E Tests › should navigate to login page from registration" classname="user-registration.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="User Registration E2E Tests › should handle form reset" classname="user-registration.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+<testsuite name="vendor-workflow.spec.js" timestamp="2025-08-17T15:38:44.446Z" hostname="firefox" tests="6" failures="0" skipped="6" time="0" errors="0">
+<testcase name="Vendor Workflow E2E Tests › complete vendor onboarding - register, create shop, add products" classname="vendor-workflow.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Workflow E2E Tests › should manage product inventory" classname="vendor-workflow.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Workflow E2E Tests › should handle order management" classname="vendor-workflow.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Workflow E2E Tests › should manage shop profile and settings" classname="vendor-workflow.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Workflow E2E Tests › should handle analytics and reporting" classname="vendor-workflow.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Workflow E2E Tests › should handle customer interactions and reviews" classname="vendor-workflow.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+<testsuite name="vendor.spec.js" timestamp="2025-08-17T15:38:44.446Z" hostname="firefox" tests="11" failures="0" skipped="11" time="0" errors="0">
+<testcase name="Vendor Management E2E Tests › should register as vendor and create shop" classname="vendor.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Management E2E Tests › should add products to shop" classname="vendor.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Management E2E Tests › should edit product details" classname="vendor.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Management E2E Tests › should manage product inventory" classname="vendor.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Management E2E Tests › should view and manage orders" classname="vendor.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Management E2E Tests › should process order fulfillment" classname="vendor.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Management E2E Tests › should view shop analytics" classname="vendor.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Management E2E Tests › should manage shop settings" classname="vendor.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Management E2E Tests › should handle customer reviews" classname="vendor.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Management E2E Tests › should manage shop operating hours" classname="vendor.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Management E2E Tests › should manage product categories and variants" classname="vendor.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+<testsuite name="auth.spec.js" timestamp="2025-08-17T15:38:44.446Z" hostname="webkit" tests="9" failures="0" skipped="9" time="0" errors="0">
+<testcase name="Authentication E2E Tests › should register a new customer successfully" classname="auth.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Authentication E2E Tests › should register a new vendor successfully" classname="auth.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Authentication E2E Tests › should login customer successfully" classname="auth.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Authentication E2E Tests › should login vendor successfully" classname="auth.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Authentication E2E Tests › should reject login with invalid credentials" classname="auth.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Authentication E2E Tests › should logout successfully" classname="auth.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Authentication E2E Tests › should handle forgot password flow" classname="auth.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Authentication E2E Tests › should validate registration form fields" classname="auth.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Authentication E2E Tests › should validate password strength" classname="auth.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+<testsuite name="basic-navigation.spec.js" timestamp="2025-08-17T15:38:44.446Z" hostname="webkit" tests="5" failures="0" skipped="5" time="0" errors="0">
+<testcase name="Basic Navigation E2E Tests › should load the home page" classname="basic-navigation.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Basic Navigation E2E Tests › should load the auth page" classname="basic-navigation.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Basic Navigation E2E Tests › should navigate between customer and vendor tabs" classname="basic-navigation.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Basic Navigation E2E Tests › should switch between login and register modes" classname="basic-navigation.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Basic Navigation E2E Tests › should display registration form fields" classname="basic-navigation.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+<testsuite name="debug-form.spec.js" timestamp="2025-08-17T15:38:44.446Z" hostname="webkit" tests="1" failures="0" skipped="1" time="0" errors="0">
+<testcase name="Debug Form Submission › should debug form submission process" classname="debug-form.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+<testsuite name="shopping-workflow.spec.js" timestamp="2025-08-17T15:38:44.446Z" hostname="webkit" tests="7" failures="0" skipped="7" time="0" errors="0">
+<testcase name="Shopping Workflow E2E Tests › complete shopping journey - browse, add to cart, checkout" classname="shopping-workflow.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Workflow E2E Tests › should handle cart operations - add, update, remove items" classname="shopping-workflow.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Workflow E2E Tests › should handle shop browsing and filtering" classname="shopping-workflow.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Workflow E2E Tests › should handle product browsing and search" classname="shopping-workflow.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Workflow E2E Tests › should handle product details and reviews" classname="shopping-workflow.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Workflow E2E Tests › should handle shop following and notifications" classname="shopping-workflow.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Workflow E2E Tests › should handle order tracking and history" classname="shopping-workflow.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+<testsuite name="shopping.spec.js" timestamp="2025-08-17T15:38:44.446Z" hostname="webkit" tests="11" failures="0" skipped="11" time="0" errors="0">
+<testcase name="Shopping Experience E2E Tests › should browse shops and view products" classname="shopping.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Experience E2E Tests › should search and filter products" classname="shopping.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Experience E2E Tests › should add products to cart" classname="shopping.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Experience E2E Tests › should manage shopping cart" classname="shopping.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Experience E2E Tests › should apply and remove coupons" classname="shopping.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Experience E2E Tests › should complete checkout process" classname="shopping.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Experience E2E Tests › should view order history" classname="shopping.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Experience E2E Tests › should track order status" classname="shopping.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Experience E2E Tests › should add products to wishlist" classname="shopping.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Experience E2E Tests › should filter shops by location" classname="shopping.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Experience E2E Tests › should view shop reviews and ratings" classname="shopping.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+<testsuite name="user-journey.spec.js" timestamp="2025-08-17T15:38:44.446Z" hostname="webkit" tests="6" failures="0" skipped="6" time="0" errors="0">
+<testcase name="Complete User Journey E2E Tests › Complete customer journey: registration to order completion" classname="user-journey.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Complete User Journey E2E Tests › Complete vendor journey: registration to order fulfillment" classname="user-journey.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Complete User Journey E2E Tests › Complete shopping experience with search and filters" classname="user-journey.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Complete User Journey E2E Tests › Complete shop discovery and following experience" classname="user-journey.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Complete User Journey E2E Tests › Complete order tracking and review experience" classname="user-journey.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Complete User Journey E2E Tests › Complete vendor analytics and reporting experience" classname="user-journey.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+<testsuite name="user-registration.spec.js" timestamp="2025-08-17T15:38:44.446Z" hostname="webkit" tests="8" failures="0" skipped="8" time="0" errors="0">
+<testcase name="User Registration E2E Tests › should register a new customer successfully" classname="user-registration.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="User Registration E2E Tests › should register a new vendor successfully" classname="user-registration.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="User Registration E2E Tests › should show validation errors for invalid data" classname="user-registration.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="User Registration E2E Tests › should show error for existing email" classname="user-registration.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="User Registration E2E Tests › should show error for password mismatch" classname="user-registration.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="User Registration E2E Tests › should show error for weak password" classname="user-registration.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="User Registration E2E Tests › should navigate to login page from registration" classname="user-registration.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="User Registration E2E Tests › should handle form reset" classname="user-registration.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+<testsuite name="vendor-workflow.spec.js" timestamp="2025-08-17T15:38:44.446Z" hostname="webkit" tests="6" failures="0" skipped="6" time="0" errors="0">
+<testcase name="Vendor Workflow E2E Tests › complete vendor onboarding - register, create shop, add products" classname="vendor-workflow.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Workflow E2E Tests › should manage product inventory" classname="vendor-workflow.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Workflow E2E Tests › should handle order management" classname="vendor-workflow.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Workflow E2E Tests › should manage shop profile and settings" classname="vendor-workflow.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Workflow E2E Tests › should handle analytics and reporting" classname="vendor-workflow.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Workflow E2E Tests › should handle customer interactions and reviews" classname="vendor-workflow.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+<testsuite name="vendor.spec.js" timestamp="2025-08-17T15:38:44.446Z" hostname="webkit" tests="11" failures="0" skipped="11" time="0" errors="0">
+<testcase name="Vendor Management E2E Tests › should register as vendor and create shop" classname="vendor.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Management E2E Tests › should add products to shop" classname="vendor.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Management E2E Tests › should edit product details" classname="vendor.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Management E2E Tests › should manage product inventory" classname="vendor.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Management E2E Tests › should view and manage orders" classname="vendor.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Management E2E Tests › should process order fulfillment" classname="vendor.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Management E2E Tests › should view shop analytics" classname="vendor.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Management E2E Tests › should manage shop settings" classname="vendor.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Management E2E Tests › should handle customer reviews" classname="vendor.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Management E2E Tests › should manage shop operating hours" classname="vendor.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Management E2E Tests › should manage product categories and variants" classname="vendor.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+<testsuite name="auth.spec.js" timestamp="2025-08-17T15:38:44.446Z" hostname="Mobile Chrome" tests="9" failures="0" skipped="9" time="0" errors="0">
+<testcase name="Authentication E2E Tests › should register a new customer successfully" classname="auth.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Authentication E2E Tests › should register a new vendor successfully" classname="auth.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Authentication E2E Tests › should login customer successfully" classname="auth.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Authentication E2E Tests › should login vendor successfully" classname="auth.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Authentication E2E Tests › should reject login with invalid credentials" classname="auth.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Authentication E2E Tests › should logout successfully" classname="auth.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Authentication E2E Tests › should handle forgot password flow" classname="auth.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Authentication E2E Tests › should validate registration form fields" classname="auth.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Authentication E2E Tests › should validate password strength" classname="auth.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+<testsuite name="basic-navigation.spec.js" timestamp="2025-08-17T15:38:44.446Z" hostname="Mobile Chrome" tests="5" failures="0" skipped="5" time="0" errors="0">
+<testcase name="Basic Navigation E2E Tests › should load the home page" classname="basic-navigation.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Basic Navigation E2E Tests › should load the auth page" classname="basic-navigation.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Basic Navigation E2E Tests › should navigate between customer and vendor tabs" classname="basic-navigation.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Basic Navigation E2E Tests › should switch between login and register modes" classname="basic-navigation.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Basic Navigation E2E Tests › should display registration form fields" classname="basic-navigation.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+<testsuite name="debug-form.spec.js" timestamp="2025-08-17T15:38:44.446Z" hostname="Mobile Chrome" tests="1" failures="0" skipped="1" time="0" errors="0">
+<testcase name="Debug Form Submission › should debug form submission process" classname="debug-form.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+<testsuite name="shopping-workflow.spec.js" timestamp="2025-08-17T15:38:44.446Z" hostname="Mobile Chrome" tests="7" failures="0" skipped="7" time="0" errors="0">
+<testcase name="Shopping Workflow E2E Tests › complete shopping journey - browse, add to cart, checkout" classname="shopping-workflow.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Workflow E2E Tests › should handle cart operations - add, update, remove items" classname="shopping-workflow.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Workflow E2E Tests › should handle shop browsing and filtering" classname="shopping-workflow.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Workflow E2E Tests › should handle product browsing and search" classname="shopping-workflow.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Workflow E2E Tests › should handle product details and reviews" classname="shopping-workflow.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Workflow E2E Tests › should handle shop following and notifications" classname="shopping-workflow.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Workflow E2E Tests › should handle order tracking and history" classname="shopping-workflow.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+<testsuite name="shopping.spec.js" timestamp="2025-08-17T15:38:44.446Z" hostname="Mobile Chrome" tests="11" failures="0" skipped="11" time="0" errors="0">
+<testcase name="Shopping Experience E2E Tests › should browse shops and view products" classname="shopping.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Experience E2E Tests › should search and filter products" classname="shopping.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Experience E2E Tests › should add products to cart" classname="shopping.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Experience E2E Tests › should manage shopping cart" classname="shopping.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Experience E2E Tests › should apply and remove coupons" classname="shopping.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Experience E2E Tests › should complete checkout process" classname="shopping.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Experience E2E Tests › should view order history" classname="shopping.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Experience E2E Tests › should track order status" classname="shopping.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Experience E2E Tests › should add products to wishlist" classname="shopping.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Experience E2E Tests › should filter shops by location" classname="shopping.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Experience E2E Tests › should view shop reviews and ratings" classname="shopping.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+<testsuite name="user-journey.spec.js" timestamp="2025-08-17T15:38:44.446Z" hostname="Mobile Chrome" tests="6" failures="0" skipped="6" time="0" errors="0">
+<testcase name="Complete User Journey E2E Tests › Complete customer journey: registration to order completion" classname="user-journey.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Complete User Journey E2E Tests › Complete vendor journey: registration to order fulfillment" classname="user-journey.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Complete User Journey E2E Tests › Complete shopping experience with search and filters" classname="user-journey.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Complete User Journey E2E Tests › Complete shop discovery and following experience" classname="user-journey.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Complete User Journey E2E Tests › Complete order tracking and review experience" classname="user-journey.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Complete User Journey E2E Tests › Complete vendor analytics and reporting experience" classname="user-journey.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+<testsuite name="user-registration.spec.js" timestamp="2025-08-17T15:38:44.446Z" hostname="Mobile Chrome" tests="8" failures="0" skipped="8" time="0" errors="0">
+<testcase name="User Registration E2E Tests › should register a new customer successfully" classname="user-registration.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="User Registration E2E Tests › should register a new vendor successfully" classname="user-registration.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="User Registration E2E Tests › should show validation errors for invalid data" classname="user-registration.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="User Registration E2E Tests › should show error for existing email" classname="user-registration.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="User Registration E2E Tests › should show error for password mismatch" classname="user-registration.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="User Registration E2E Tests › should show error for weak password" classname="user-registration.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="User Registration E2E Tests › should navigate to login page from registration" classname="user-registration.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="User Registration E2E Tests › should handle form reset" classname="user-registration.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+<testsuite name="vendor-workflow.spec.js" timestamp="2025-08-17T15:38:44.446Z" hostname="Mobile Chrome" tests="6" failures="0" skipped="6" time="0" errors="0">
+<testcase name="Vendor Workflow E2E Tests › complete vendor onboarding - register, create shop, add products" classname="vendor-workflow.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Workflow E2E Tests › should manage product inventory" classname="vendor-workflow.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Workflow E2E Tests › should handle order management" classname="vendor-workflow.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Workflow E2E Tests › should manage shop profile and settings" classname="vendor-workflow.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Workflow E2E Tests › should handle analytics and reporting" classname="vendor-workflow.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Workflow E2E Tests › should handle customer interactions and reviews" classname="vendor-workflow.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+<testsuite name="vendor.spec.js" timestamp="2025-08-17T15:38:44.446Z" hostname="Mobile Chrome" tests="11" failures="0" skipped="11" time="0" errors="0">
+<testcase name="Vendor Management E2E Tests › should register as vendor and create shop" classname="vendor.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Management E2E Tests › should add products to shop" classname="vendor.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Management E2E Tests › should edit product details" classname="vendor.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Management E2E Tests › should manage product inventory" classname="vendor.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Management E2E Tests › should view and manage orders" classname="vendor.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Management E2E Tests › should process order fulfillment" classname="vendor.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Management E2E Tests › should view shop analytics" classname="vendor.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Management E2E Tests › should manage shop settings" classname="vendor.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Management E2E Tests › should handle customer reviews" classname="vendor.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Management E2E Tests › should manage shop operating hours" classname="vendor.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Management E2E Tests › should manage product categories and variants" classname="vendor.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+<testsuite name="auth.spec.js" timestamp="2025-08-17T15:38:44.446Z" hostname="Mobile Safari" tests="9" failures="0" skipped="9" time="0" errors="0">
+<testcase name="Authentication E2E Tests › should register a new customer successfully" classname="auth.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Authentication E2E Tests › should register a new vendor successfully" classname="auth.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Authentication E2E Tests › should login customer successfully" classname="auth.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Authentication E2E Tests › should login vendor successfully" classname="auth.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Authentication E2E Tests › should reject login with invalid credentials" classname="auth.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Authentication E2E Tests › should logout successfully" classname="auth.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Authentication E2E Tests › should handle forgot password flow" classname="auth.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Authentication E2E Tests › should validate registration form fields" classname="auth.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Authentication E2E Tests › should validate password strength" classname="auth.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+<testsuite name="basic-navigation.spec.js" timestamp="2025-08-17T15:38:44.446Z" hostname="Mobile Safari" tests="5" failures="0" skipped="5" time="0" errors="0">
+<testcase name="Basic Navigation E2E Tests › should load the home page" classname="basic-navigation.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Basic Navigation E2E Tests › should load the auth page" classname="basic-navigation.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Basic Navigation E2E Tests › should navigate between customer and vendor tabs" classname="basic-navigation.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Basic Navigation E2E Tests › should switch between login and register modes" classname="basic-navigation.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Basic Navigation E2E Tests › should display registration form fields" classname="basic-navigation.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+<testsuite name="debug-form.spec.js" timestamp="2025-08-17T15:38:44.446Z" hostname="Mobile Safari" tests="1" failures="0" skipped="1" time="0" errors="0">
+<testcase name="Debug Form Submission › should debug form submission process" classname="debug-form.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+<testsuite name="shopping-workflow.spec.js" timestamp="2025-08-17T15:38:44.446Z" hostname="Mobile Safari" tests="7" failures="0" skipped="7" time="0" errors="0">
+<testcase name="Shopping Workflow E2E Tests › complete shopping journey - browse, add to cart, checkout" classname="shopping-workflow.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Workflow E2E Tests › should handle cart operations - add, update, remove items" classname="shopping-workflow.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Workflow E2E Tests › should handle shop browsing and filtering" classname="shopping-workflow.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Workflow E2E Tests › should handle product browsing and search" classname="shopping-workflow.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Workflow E2E Tests › should handle product details and reviews" classname="shopping-workflow.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Workflow E2E Tests › should handle shop following and notifications" classname="shopping-workflow.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Workflow E2E Tests › should handle order tracking and history" classname="shopping-workflow.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+<testsuite name="shopping.spec.js" timestamp="2025-08-17T15:38:44.446Z" hostname="Mobile Safari" tests="11" failures="0" skipped="11" time="0" errors="0">
+<testcase name="Shopping Experience E2E Tests › should browse shops and view products" classname="shopping.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Experience E2E Tests › should search and filter products" classname="shopping.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Experience E2E Tests › should add products to cart" classname="shopping.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Experience E2E Tests › should manage shopping cart" classname="shopping.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Experience E2E Tests › should apply and remove coupons" classname="shopping.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Experience E2E Tests › should complete checkout process" classname="shopping.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Experience E2E Tests › should view order history" classname="shopping.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Experience E2E Tests › should track order status" classname="shopping.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Experience E2E Tests › should add products to wishlist" classname="shopping.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Experience E2E Tests › should filter shops by location" classname="shopping.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Shopping Experience E2E Tests › should view shop reviews and ratings" classname="shopping.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+<testsuite name="user-journey.spec.js" timestamp="2025-08-17T15:38:44.446Z" hostname="Mobile Safari" tests="6" failures="0" skipped="6" time="0" errors="0">
+<testcase name="Complete User Journey E2E Tests › Complete customer journey: registration to order completion" classname="user-journey.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Complete User Journey E2E Tests › Complete vendor journey: registration to order fulfillment" classname="user-journey.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Complete User Journey E2E Tests › Complete shopping experience with search and filters" classname="user-journey.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Complete User Journey E2E Tests › Complete shop discovery and following experience" classname="user-journey.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Complete User Journey E2E Tests › Complete order tracking and review experience" classname="user-journey.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Complete User Journey E2E Tests › Complete vendor analytics and reporting experience" classname="user-journey.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+<testsuite name="user-registration.spec.js" timestamp="2025-08-17T15:38:44.446Z" hostname="Mobile Safari" tests="8" failures="0" skipped="8" time="0" errors="0">
+<testcase name="User Registration E2E Tests › should register a new customer successfully" classname="user-registration.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="User Registration E2E Tests › should register a new vendor successfully" classname="user-registration.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="User Registration E2E Tests › should show validation errors for invalid data" classname="user-registration.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="User Registration E2E Tests › should show error for existing email" classname="user-registration.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="User Registration E2E Tests › should show error for password mismatch" classname="user-registration.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="User Registration E2E Tests › should show error for weak password" classname="user-registration.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="User Registration E2E Tests › should navigate to login page from registration" classname="user-registration.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="User Registration E2E Tests › should handle form reset" classname="user-registration.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+<testsuite name="vendor-workflow.spec.js" timestamp="2025-08-17T15:38:44.446Z" hostname="Mobile Safari" tests="6" failures="0" skipped="6" time="0" errors="0">
+<testcase name="Vendor Workflow E2E Tests › complete vendor onboarding - register, create shop, add products" classname="vendor-workflow.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Workflow E2E Tests › should manage product inventory" classname="vendor-workflow.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Workflow E2E Tests › should handle order management" classname="vendor-workflow.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Workflow E2E Tests › should manage shop profile and settings" classname="vendor-workflow.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Workflow E2E Tests › should handle analytics and reporting" classname="vendor-workflow.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Workflow E2E Tests › should handle customer interactions and reviews" classname="vendor-workflow.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+<testsuite name="vendor.spec.js" timestamp="2025-08-17T15:38:44.446Z" hostname="Mobile Safari" tests="11" failures="0" skipped="11" time="0" errors="0">
+<testcase name="Vendor Management E2E Tests › should register as vendor and create shop" classname="vendor.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Management E2E Tests › should add products to shop" classname="vendor.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Management E2E Tests › should edit product details" classname="vendor.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Management E2E Tests › should manage product inventory" classname="vendor.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Management E2E Tests › should view and manage orders" classname="vendor.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Management E2E Tests › should process order fulfillment" classname="vendor.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Management E2E Tests › should view shop analytics" classname="vendor.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Management E2E Tests › should manage shop settings" classname="vendor.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Management E2E Tests › should handle customer reviews" classname="vendor.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Management E2E Tests › should manage shop operating hours" classname="vendor.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Vendor Management E2E Tests › should manage product categories and variants" classname="vendor.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+</testsuites>

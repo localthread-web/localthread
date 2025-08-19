@@ -1,0 +1,367 @@
+# Page snapshot
+
+```yaml
+- banner:
+  - link "LocalThread Logo":
+    - /url: /
+    - img "LocalThread Logo"
+  - navigation:
+    - link "Home":
+      - /url: /
+    - link "Products":
+      - /url: /products
+    - link "About":
+      - /url: /about
+    - link "Contact":
+      - /url: /contact
+  - button:
+    - img
+  - link:
+    - /url: /wishlist
+    - button:
+      - img
+  - link:
+    - /url: /cart
+    - button:
+      - img
+  - button "Login":
+    - img
+    - text: Login
+- main:
+  - img
+  - textbox "Search products..."
+  - text: "Sort by:"
+  - combobox:
+    - img
+    - img
+    - text: Newest First
+  - text: 12 products found
+  - img
+  - heading "Filters" [level=2]
+  - button "Clear":
+    - img
+    - text: Clear
+  - heading "Categories" [level=3]
+  - checkbox "T-Shirts T-Shirts"
+  - text: T-Shirts 45
+  - checkbox "Ethnic Wear Ethnic Wear"
+  - text: Ethnic Wear 32
+  - checkbox "Hoodies Hoodies"
+  - text: Hoodies 28
+  - checkbox "Jeans Jeans"
+  - text: Jeans 56
+  - checkbox "Dresses Dresses"
+  - text: Dresses 38
+  - checkbox "Shirts Shirts"
+  - text: Shirts 42
+  - heading "Sizes" [level=3]
+  - checkbox "Small Small"
+  - text: Small 89
+  - checkbox "Medium Medium"
+  - text: Medium 156
+  - checkbox "Large Large"
+  - text: Large 134
+  - checkbox "Extra Large Extra Large"
+  - text: Extra Large 67
+  - checkbox "2XL 2XL"
+  - text: 2XL 34
+  - heading "Price Range" [level=3]
+  - slider "Minimum"
+  - slider "Maximum"
+  - text: ₹0 ₹1000
+  - heading "Colors" [level=3]
+  - text: Black White Red Blue Green Yellow Purple Pink
+  - heading "Vendors" [level=3]
+  - checkbox "Fashion Hub Fashion Hub"
+  - text: Fashion Hub 45
+  - checkbox "Style Studio Style Studio"
+  - text: Style Studio 32
+  - checkbox "Urban Threads Urban Threads"
+  - text: Urban Threads 28
+  - checkbox "Elegant Wear Elegant Wear"
+  - text: Elegant Wear 56
+  - checkbox "Trendy Boutique Trendy Boutique"
+  - text: Trendy Boutique 38
+  - img "Classic White Shirt"
+  - button:
+    - img
+  - button "Add to Cart":
+    - img
+    - text: Add to Cart
+  - paragraph: shirts
+  - heading "Classic White Shirt" [level=3]
+  - paragraph: "Sizes: S, M, L, XL"
+  - text: ₹45
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: (4.3)
+  - img "Summer Floral Dress"
+  - text: New
+  - button:
+    - img
+  - button "Add to Cart":
+    - img
+    - text: Add to Cart
+  - paragraph: dresses
+  - heading "Summer Floral Dress" [level=3]
+  - paragraph: "Sizes: S, M, L"
+  - text: ₹65
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: (4.7)
+  - img "Ethnic Kurta Set"
+  - button:
+    - img
+  - button "Add to Cart":
+    - img
+    - text: Add to Cart
+  - paragraph: ethnic
+  - heading "Ethnic Kurta Set" [level=3]
+  - paragraph: "Sizes: S, M, L, XL"
+  - text: ₹85
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: (4.6)
+  - img "Organic Cotton T-Shirt"
+  - text: New
+  - button:
+    - img
+  - button "Add to Cart":
+    - img
+    - text: Add to Cart
+  - paragraph: t-shirts
+  - heading "Organic Cotton T-Shirt" [level=3]
+  - paragraph: "Sizes: S, M, L, XL"
+  - text: ₹29 ₹39
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: (4.5)
+  - img "Running Sneakers"
+  - text: Sale
+  - button:
+    - img
+  - button "Add to Cart":
+    - img
+    - text: Add to Cart
+  - paragraph: footwear
+  - heading "Running Sneakers" [level=3]
+  - paragraph: "Sizes: S, M, L, XL"
+  - text: ₹95 ₹120
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: (4.5)
+  - img "Formal Business Shirt"
+  - button:
+    - img
+  - button "Add to Cart":
+    - img
+    - text: Add to Cart
+  - paragraph: shirts
+  - heading "Formal Business Shirt" [level=3]
+  - paragraph: "Sizes: S, M, L, XL"
+  - text: ₹75
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: (4.7)
+  - img "Casual Chino Pants"
+  - button:
+    - img
+  - button "Add to Cart":
+    - img
+    - text: Add to Cart
+  - paragraph: jeans
+  - heading "Casual Chino Pants" [level=3]
+  - paragraph: "Sizes: S, M, L, XL"
+  - text: ₹55
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: (4.4)
+  - img "Casual Hoodie"
+  - text: Sale
+  - button:
+    - img
+  - button "Add to Cart":
+    - img
+    - text: Add to Cart
+  - paragraph: hoodies
+  - heading "Casual Hoodie" [level=3]
+  - paragraph: "Sizes: S, M, L, XL, XXL"
+  - text: ₹49 ₹69
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: (4.4)
+  - img "Sustainable Denim Jacket"
+  - button:
+    - img
+  - button "Add to Cart":
+    - img
+    - text: Add to Cart
+  - paragraph: hoodies
+  - heading "Sustainable Denim Jacket" [level=3]
+  - paragraph: "Sizes: S, M, L, XL, XXL"
+  - text: ₹89
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: (4.8)
+  - img "Skinny Jeans"
+  - text: Sale
+  - button:
+    - img
+  - button "Add to Cart":
+    - img
+    - text: Add to Cart
+  - paragraph: jeans
+  - heading "Skinny Jeans" [level=3]
+  - paragraph: "Sizes: S, M, L, XL"
+  - text: ₹69 ₹89
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: (4.3)
+  - img "Leather Crossbody Bag"
+  - button:
+    - img
+  - button "Add to Cart":
+    - img
+    - text: Add to Cart
+  - paragraph: accessories
+  - heading "Leather Crossbody Bag" [level=3]
+  - paragraph: "Sizes: One Size"
+  - text: ₹129
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: (4.9)
+  - img "Merino Wool Sweater"
+  - text: Sale
+  - button:
+    - img
+  - button "Add to Cart":
+    - img
+    - text: Add to Cart
+  - paragraph: hoodies
+  - heading "Merino Wool Sweater" [level=3]
+  - paragraph: "Sizes: S, M, L"
+  - text: ₹79 ₹99
+  - img
+  - img
+  - img
+  - img
+  - img
+  - text: (4.6)
+  - img
+  - heading "Filters" [level=2]
+  - button "Clear":
+    - img
+    - text: Clear
+  - heading "Categories" [level=3]
+  - checkbox
+  - text: T-Shirts 45
+  - checkbox
+  - text: Ethnic Wear 32
+  - checkbox
+  - text: Hoodies 28
+  - checkbox
+  - text: Jeans 56
+  - checkbox
+  - text: Dresses 38
+  - checkbox
+  - text: Shirts 42
+  - heading "Sizes" [level=3]
+  - checkbox
+  - text: Small 89
+  - checkbox
+  - text: Medium 156
+  - checkbox
+  - text: Large 134
+  - checkbox
+  - text: Extra Large 67
+  - checkbox
+  - text: 2XL 34
+  - heading "Price Range" [level=3]
+  - slider "Minimum"
+  - slider "Maximum"
+  - text: ₹0 ₹1000
+  - heading "Colors" [level=3]
+  - text: Black White Red Blue Green Yellow Purple Pink
+  - heading "Vendors" [level=3]
+  - checkbox
+  - text: Fashion Hub 45
+  - checkbox
+  - text: Style Studio 32
+  - checkbox
+  - text: Urban Threads 28
+  - checkbox
+  - text: Elegant Wear 56
+  - checkbox
+  - text: Trendy Boutique 38
+- contentinfo:
+  - heading "Stay in Style" [level=3]
+  - paragraph: Subscribe to our newsletter and be the first to know about new collections and exclusive offers.
+  - textbox "Enter your email"
+  - button "Subscribe"
+  - img "LocalThread Logo"
+  - paragraph: Sustainable fashion for the modern world. Quality clothing that makes you look good and feel good.
+  - button:
+    - img
+  - button:
+    - img
+  - button:
+    - img
+  - button:
+    - img
+  - heading "Shop" [level=4]
+  - button "New Arrivals"
+  - button "Women"
+  - button "Men"
+  - button "Accessories"
+  - button "Sale"
+  - heading "Customer Service" [level=4]
+  - button "Contact Us"
+  - button "Size Guide"
+  - button "Shipping Info"
+  - button "Returns"
+  - button "FAQ"
+  - heading "Company" [level=4]
+  - button "About Us"
+  - button "Careers"
+  - button "Sustainability"
+  - button "Press"
+  - button "Privacy Policy"
+  - text: © 2025 LocalThread. All rights reserved.
+  - button "Terms"
+  - button "Privacy"
+  - button "Cookies"
+- region "Notifications alt+T"
+```
